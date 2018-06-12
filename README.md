@@ -1,4 +1,4 @@
-# SimpleNetAuthWithDefaultUsers
+# Simple .NET MVC Authentication (ASP.NET Identity) With Seed Default Users
 
 Really simple .NET MVC Application with a seed for creating users/roles. 
 
